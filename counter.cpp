@@ -1,6 +1,7 @@
 #include "ProgressMeter.h"
 #include <stdlib.h>
 
+/* This is an example program that demonstrates use of the ProgressMeter */
 
 void long_function(){
 	int n = 0;
